@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **TryHackMe & HackTheBox Write-ups**
 
-- 🌱 I’m currently learning **Python, Malware Analysis,**
+- 🌱 I’m currently learning **Python and Malware Analysis**
 
 - 📫 How to reach me **jmmoseley@protonmail.com**
 
