@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Johanna!</h1>
-<h3 align="center">A cybersecurity enthusiast, who enjoys playing CTFs and learning OSINT.</h3>
+<h3 align="center">A cybersecurity enthusiast, who enjoys playing CTFs, and learning anything cyber.</h3>
 
-- 🔭 I’m currently working on **TryHackMe & HackTheBox Write-ups**
+- 🔭 I’m currently working on **TryHackMe, HackTheBox, and OverTheWire challenges, and Cyber Defense Challenge made possible by WiCyS/Target. **
 
 - 🌱 I’m currently learning **Python and Malware Analysis**
 
