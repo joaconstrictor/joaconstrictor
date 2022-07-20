@@ -1,16 +1,17 @@
-<h1 align="center">Hola, I'm Johanna!</h1>
+<h1 align="center">Hola 👋, I'm Joa</h1>
 <h3 align="center">A cybersecurity enthusiast, who enjoys playing CTFs, and learning anything cyber.</h3>
 
 - 🔭 I’m currently working on **TryHackMe, HackTheBox, and OverTheWire challenges, and the Cyber Defense Challenge made possible by WiCyS/Target.**
 
-- 🌱 I’m currently learning **Python and Malware Analysis**
+- 🌱 I’m currently learning **Python, Malware Analysis,Reverse Engineering, etc.**
 
-- 📫 How to reach me **jmmoseley@protonmail.com**
+- 📄 Know about my experiences [https://github.com/joaconstrictor/resume](https://github.com/joaconstrictor/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joaconstrictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joaconstrictor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moseleyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moseleyj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/moseleyj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moseleyj/" height="30" width="40" /></a>
+<a href="https://medium.com/@joaconstrictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@joaconstrictor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaconstrictor&show_icons=true&locale=en" alt="joaconstrictor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaconstrictor&" alt="joaconstrictor" /></p>
+
 
