@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python, Malware Analysis,Reverse Engineering, etc.**
 
-- 📄 Know about my experiences [https://github.com/joaconstrictor/resume](https://github.com/joaconstrictor/resume)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/joaconstrictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joaconstrictor" height="30" width="40" /></a>
